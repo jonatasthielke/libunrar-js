@@ -1,0 +1,27 @@
+{
+  "name": "libunrar-js",
+  "version": "1.0.0",
+  "description": "Emscripten port of RARLab's open-source unrar library packaged for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unrar",
+    "rar",
+    "emscripten",
+    "browser",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "libunrar.js",
+    "libunrar.js.mem"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonatas.thielke/libunrar-js.git"
+  }
+}
